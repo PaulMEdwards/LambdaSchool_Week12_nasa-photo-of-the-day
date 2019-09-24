@@ -23,7 +23,7 @@ In this project you will build out a application to show the nasa photo of the d
 This project was put together using create-react-app (CRA). You will not need to install CRA in order to make this project work. Follow the steps below to setup the project with the proper dependencies.
 
 - [x] Create a forked copy of this project.
-- [x] Add your team lead as collaborator on Github.
+- [ ] Add your team lead as collaborator on Github.
 - [x] Clone your OWN version of the repository in your terminal
 - [x] Download project dependencies by running one of these two commands `yarn` or `npm install`
 - [x] Using the same command tool (yarn or npm) start up the app using `yarn start` or `npm start`
