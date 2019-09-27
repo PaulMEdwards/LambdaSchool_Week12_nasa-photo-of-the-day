@@ -33,9 +33,6 @@ export const Media = (props) => {
           :
           <div />
       }
-      {
-        
-      }
     </React.Fragment>
     /* jshint ignore:end */
   );
