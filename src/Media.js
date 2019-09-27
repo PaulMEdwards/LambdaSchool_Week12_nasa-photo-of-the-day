@@ -28,7 +28,6 @@ export const Media = (props) => {
                 src={data.url + "&autoplay=1&controls=0&showinfo=0&autohide=1&wmode=transparent&hd=1"}>
               </iframe>
             </div>
-            :
           <div />
           </React.Fragment>
           :
