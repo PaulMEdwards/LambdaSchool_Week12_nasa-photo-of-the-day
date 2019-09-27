@@ -32,10 +32,11 @@ function App() {
 
   // console.log('apodData: ', apodData);
 
+  /* eslint-disable jsx-a11y/no-access-key */
   return (
     /* jshint ignore:start */
     <div className="App centerWidth">
-      <div className='hideButton glowText' onClick={() => toggleHidden()} title="Hide text">x</div>
+      <div className='hideButton glowText' onClick={() => toggleHidden()} title="Hide text" accessKey="h">x</div>
       <div>
         <h1 className='title glowText toggle'>NASA Astronomy Picture of the Day</h1>
         <button className="dateArrow glowText toggle" onClick={() => setRequestDate(new Date(reqDate.setDate(reqDate.getDate() - 1)))}>&lt;</button>

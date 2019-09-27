@@ -51,6 +51,13 @@ h1.title {
 .centerWidth {
   margin: 1em auto;
 }
+.centerBoth {
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+  height: 100%;
+  width: 100%;
+}
 
 .glowText {
   color: black;

@@ -8,12 +8,13 @@ export const Media = (props) => {
   console.log('data: ', data);
   console.log('data.media_type: ', data.media_type);
 
-  // if (!document.readyState) return <h3>Loading...</h3>;
+  // if (!document.readyState) return <h1 className="centerBoth">Loading...</h1>;
 
   if (data.media_type === "image") {
     document.body.style.background = `url('${data.hdurl}') no-repeat center center fixed`;
     document.body.style.backgroundColor = 'black';
     document.body.style.backgroundSize = 'cover';
+    document.body.style.transition = 'all .5s cubic-bezier(0.6, -0.28, 0.735, 0.045)';
   }
 
   return (
