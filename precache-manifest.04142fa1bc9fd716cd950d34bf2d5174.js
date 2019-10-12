@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78653af6ef9df78a81c7afe0b4dd801a",
+    "revision": "af66f6f6b9469991e1fcbb4f099222f6",
     "url": "/LambdaSchool_Week12_nasa-photo-of-the-day/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/css/2.ff9ea1f9.chunk.css"
   },
   {
-    "revision": "da318d219743209f584c",
+    "revision": "793887dc424fb119afdd",
     "url": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/css/main.e25df8bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/js/2.4ff8c088.chunk.js"
   },
   {
-    "revision": "da318d219743209f584c",
-    "url": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/js/main.246ab9e5.chunk.js"
+    "revision": "793887dc424fb119afdd",
+    "url": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/js/main.46a4a3f4.chunk.js"
   },
   {
     "revision": "015bca98c0e0eb6cca24",
