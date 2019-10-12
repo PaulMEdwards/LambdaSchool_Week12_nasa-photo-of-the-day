@@ -64,7 +64,7 @@ export const Media = (props) => {
           <React.Fragment>
             <div className="backgroundMedia z-99">
               <iframe title="background" frameBorder="0" height="100%" width="100%"
-                src={data.url + "&autoplay=1&hd=1&controls=0&autohide=1&loop=1"}>
+                src={data.url + "&autoplay=1&hd=1&controls=0&autohide=1"}>
               </iframe>
             </div>
           <div />
