@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LambdaSchool_Week12_nasa-photo-of-the-day/precache-manifest.a204e91d52f3be24aba11d6d82560c9a.js"
+  "/LambdaSchool_Week12_nasa-photo-of-the-day/precache-manifest.d0acafc89707dab98ff8f30d9ea9d15a.js"
 );
 
 self.addEventListener('message', (event) => {
