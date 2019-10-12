@@ -36,13 +36,13 @@ function App() {
   return (
     /* jshint ignore:start */
     <div className="App centerWidth">
-      <div className='hideButton glowText' onClick={() => toggleHidden()} title="Hide text" accessKey="h">x</div>
+      <div className="hideButton glowText z-100" onClick={() => toggleHidden()} title="Hide text" accessKey="h">x</div>
       <div>
-        <h1 className='title glowText toggle'>NASA Astronomy Picture of the Day</h1>
-        <button className="dateArrow glowText toggle" onClick={() => setRequestDate(new Date(reqDate.setDate(reqDate.getDate() - 1)))}>&lt;</button>
+        <h1 className="title glowText toggle">NASA Astronomy Picture of the Day</h1>
+        <button className="dateArrow glowText toggle z-10" onClick={() => setRequestDate(new Date(reqDate.setDate(reqDate.getDate() - 1)))}>&lt;</button>
         {/* https://reactdatepicker.com */}
-        <DatePicker className="datePicker glowText toggle" selected={reqDate} onChange={date => setRequestDate(date)} todayButton="Today" maxDate={new Date()} showMonthDropdown showYearDropdown dropdownMode="select" dateFormat="yyyy/MM/dd" />
-        <button className="dateArrow glowText toggle" onClick={() => setRequestDate(new Date(reqDate.setDate(reqDate.getDate() + 1)))}>&gt;</button>
+        <DatePicker className="datePicker glowText toggle z-10" selected={reqDate} onChange={date => setRequestDate(date)} todayButton="Today" maxDate={new Date()} showMonthDropdown showYearDropdown dropdownMode="select" dateFormat="yyyy/MM/dd" />
+        <button className="dateArrow glowText toggle z-10" onClick={() => setRequestDate(new Date(reqDate.setDate(reqDate.getDate() + 1)))}>&gt;</button>
         <br />
         <Media data={apodData} />
         <div className="footer centerWidth toggle">
