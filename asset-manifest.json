@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/css/main.92f7c5a1.chunk.css",
+    "main.css": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/css/main.f2ea58ba.chunk.css",
     "main.js": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/js/main.8a50e677.chunk.js",
     "main.js.map": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/js/main.8a50e677.chunk.js.map",
     "runtime~main.js": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/js/runtime~main.4ea6b70e.js",
@@ -9,9 +9,9 @@
     "static/js/2.4ff8c088.chunk.js": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/js/2.4ff8c088.chunk.js",
     "static/js/2.4ff8c088.chunk.js.map": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/js/2.4ff8c088.chunk.js.map",
     "index.html": "/LambdaSchool_Week12_nasa-photo-of-the-day/index.html",
-    "precache-manifest.868c0538c583cf210082df7e10faeeed.js": "/LambdaSchool_Week12_nasa-photo-of-the-day/precache-manifest.868c0538c583cf210082df7e10faeeed.js",
+    "precache-manifest.720e3180d4b1588b70ebc7af48aa3182.js": "/LambdaSchool_Week12_nasa-photo-of-the-day/precache-manifest.720e3180d4b1588b70ebc7af48aa3182.js",
     "service-worker.js": "/LambdaSchool_Week12_nasa-photo-of-the-day/service-worker.js",
     "static/css/2.ff9ea1f9.chunk.css.map": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/css/2.ff9ea1f9.chunk.css.map",
-    "static/css/main.92f7c5a1.chunk.css.map": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/css/main.92f7c5a1.chunk.css.map"
+    "static/css/main.f2ea58ba.chunk.css.map": "/LambdaSchool_Week12_nasa-photo-of-the-day/static/css/main.f2ea58ba.chunk.css.map"
   }
 }
