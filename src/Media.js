@@ -15,6 +15,9 @@ export const Media = (props) => {
     document.body.style.backgroundColor = 'black';
     document.body.style.backgroundSize = 'cover';
     document.body.style.transition = 'all .5s cubic-bezier(0.6, -0.28, 0.735, 0.045)';
+    //Next 2 lines are to make it work on Android
+    document.body.style.height = '100vh';
+    document.body.style.overflow = 'hidden';
   }
 
   return (
