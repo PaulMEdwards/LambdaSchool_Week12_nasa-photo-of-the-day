@@ -25,6 +25,7 @@ export const Media = (props) => {
       return s;
     }
   
+    // eslint-disable-next-line
     function fetch_highest_res (videoid) {
       // let resolutions = ['maxresdefault', 'hqdefault', 'mqdefault'];
       // for (let i = 0; i < resolutions.length; i++) {
